@@ -1,2 +1,3 @@
-remote_theme: epidrome/cover-card@main
-
+theme: jekyll-theme-minimal
+title: Katya's home page 
+description: personal page
