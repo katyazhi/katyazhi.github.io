@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Ekaterina Zhigileva
 title_align: center
-description: Systems Chemistry and Catalysis
-show_downloads: true
-logo: /590A9143.jpg
+description: About me/"about me.md"
+show_downloads: false
+logo: /logo.jpg
