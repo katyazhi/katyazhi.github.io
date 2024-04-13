@@ -1,5 +1,6 @@
 ---
 layout: default
+align: centre
 ---
 
 My PhD research is in the field of Systems Chemistry. I work on creating systems from organic molecules and simple chemical reactions with emergent life-like properties. These studies may help to answer a fundamental question of how life originated on Earth.
