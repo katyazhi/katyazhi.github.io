@@ -10,7 +10,7 @@ Here are some useful links:
 2. [Repository with my solutions](https://github.com/katyazhi/solutions)
 3. [YouTube channel with tutorials](https://www.youtube.com/channel/UCGsgaBYSAcia5op2Umer-9g)
 
-Meet my classmates: 
+Meet my coursemates: 
 
 - [Mazal Faraj](https://mazalik.github.io/) 
 - [Rebecca Bornstein](https://rebka1989.github.io/) 
